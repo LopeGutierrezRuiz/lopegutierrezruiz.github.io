@@ -50,8 +50,8 @@ Highest decrease happened in 1986. The name decreased in 81-per-100K people that
 WHERE name = "Andrea"
 
 **08) Make a line chart showing how your name has changed in popularity over the years**
-http://i.imgur.com/KBI6Y6u.png
-http://i.imgur.com/SjUWcv7.png
+Female: http://i.imgur.com/KBI6Y6u.png
+Male: http://i.imgur.com/SjUWcv7.png
 
 > SELECT * FROM ssa_baby_names
 WHERE name = "Andrea"
