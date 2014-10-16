@@ -1,6 +1,8 @@
 # 273D - Data Journalism
 
-Homework: 2014-10-14 - Using "Lope" or "Wolf" is not common, so I'm using name “Andrea”
+
+**Homework: 2014-10-14**
+The name "Lope" is not very common, so I'm using the name “Andrea”, given that it has plenty of records both for male and female. 
 
 **01) In the year 2013, find out how many babies had your name**
 There were 2808 female and 12 male Andreas born on 2013 = 2830
@@ -48,6 +50,8 @@ Highest decrease happened in 1986. The name decreased in 81-per-100K people that
 WHERE name = "Andrea"
 
 **08) Make a line chart showing how your name has changed in popularity over the years**
+http://i.imgur.com/KBI6Y6u.png
+http://i.imgur.com/SjUWcv7.png
 
 > SELECT * FROM ssa_baby_names
 WHERE name = "Andrea"
